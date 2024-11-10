@@ -1,0 +1,30 @@
+{
+	"hello": "world",
+	"yours": {
+		"truely": 36,
+		"forever": 45,
+		"affectionately": 33
+	},
+	"lyrics": "is something bad about to happen to me.",
+	"number": 1000,
+	"array bois": [
+		1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+	],
+	"nesting": {
+		"lvl1 a": {
+		},
+		"lvl1 b": {
+			"lvl2 a": [
+				{"a": 1},
+				{"b": 2},
+				{"c": {
+					"u": 33,
+					"v": 44
+				}},
+				{"d": 4}
+			]
+		},
+		"lvl1 c": [
+		]
+	}
+}
